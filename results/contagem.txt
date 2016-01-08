@@ -1,0 +1,20 @@
+q4	avanco na avaliacao da situacao de saude	13
+q4	melhoria da qualidade do servico prestado aos pacientes	20
+q4	organizacao e padronizacao	13
+q7	monitoramento grupo	5
+q7	reconhecimento do nutricionista	3
+q7	registro de dados	7
+q7	diagnostico	7
+q7	suficiencia da antropometria	6
+q7	feedback	5
+q7	monitoramento individual	6
+q6.1	treinamento insuficiente	8
+q6.1	recursos nao disponiveis	14
+q6.1	avaliacao de implementacao nao definida	5
+q6.1	baixa praticidade	11
+q8	monitoramento por prontuario eletronico	7
+q8	reconhecimento do nutricionista	2
+q8	prescricao de dietas-individuos	3
+q8	estratificacao de individuos	9
+q8	acoes de educacao e saude	7
+q8	suficiencia da antropometria	2
